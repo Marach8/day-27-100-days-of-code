@@ -39,5 +39,5 @@ STRENGTH: {Strength()}
     os.system('clear')
     continue
   else:
-    print('Bye! Do Take of yourself😊')
+    print('Bye! Do Take of yourself.😊')
     break
